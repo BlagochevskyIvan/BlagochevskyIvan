@@ -9,13 +9,13 @@
 
 ---
 
-## 📊 Моя статистика GitHub
-[![DenverCoder1's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlagochevskyIvan&show_icons=true&theme=dark&count_private=true)](https://github.com/BlagochevskyIvan)
+## 📊 GitHub статистика
+<img src="https://github-readme-stats.vercel.app/api?username=BlagochevskyIvan&show_icons=true&theme=dark&hide_border=true" height="180"/>
 
 ---
 
-## 🖥️ Языки и технологии
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&theme=dark)](https://github.com/BlagochevskyIvan)
+## 💻 Используемые языки
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&theme=dark&hide_border=true" height="180"/>
 
 ---
 

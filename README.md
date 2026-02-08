@@ -10,12 +10,18 @@
 ---
 
 ## 📊 GitHub статистика
-<img src="https://github-readme-stats.vercel.app/api?username=BlagochevskyIvan&show_icons=true&theme=dark&hide_border=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+  height="180"
+/>
 
 ---
 
 ## 💻 Используемые языки
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&theme=dark&hide_border=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"
+  height="180"
+/>
 
 ---
 

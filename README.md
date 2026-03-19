@@ -1,4 +1,6 @@
-# Hello there 👋
+![](./img/photo.png)
+
+# Hey Everyone 
 
 Welcome to my GitHub profile
 

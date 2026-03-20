@@ -1,6 +1,6 @@
 ![](./img/photo.png)
 
-# Hello 👋, I'm Blagochevsky Ivan.
+# Hello, I'm Blagochevsky Ivan.
 
 ---
 

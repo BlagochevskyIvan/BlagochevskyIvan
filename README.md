@@ -1,8 +1,14 @@
 ![](./img/photo.png)
 
-# Hello, I'm Blagochevsky Ivan.
+# Hello 👋, I'm Blagochevsky Ivan.
 
-I love back-end development
+---
+
+I have 3 years of experience in programming and building back-end applications.  
+
+Always excited to learn new technologies and contribute to other projects.  
+
+Fueled by coffee ☕, Formula 1 🏎️ and curiosity.
 
 ---
 

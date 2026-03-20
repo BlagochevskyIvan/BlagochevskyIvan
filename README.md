@@ -36,11 +36,11 @@ I love back-end development
   </a>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&card_width=495&theme=github_dark" width="495"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&card_width=495&theme=github_dark&hide_border=true" width="495"/>
 </p>
 <p align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlagochevskyIvan&theme=github-dark&custom_title=Contribution%20graph%20" width="495"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlagochevskyIvan&theme=github-dark&hide_border=true&custom_title=Contribution%20graph" width="495"/>
   </a>
 </p>
 

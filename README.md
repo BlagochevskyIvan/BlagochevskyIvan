@@ -41,9 +41,9 @@ Fueled by coffee ☕, Formula 1 🏎️ and curiosity.
     <img src="https://streak-stats.demolab.com?user=BlagochevskyIvan&theme=github-dark-blue&hide_border=true" width="495"/>
   </a>
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlagochevskyIvan&layout=compact&card_width=495&theme=github_dark&hide_border=true" width="495"/>
-</p>
+</p> -->
 <p align="left">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlagochevskyIvan&theme=github-dark&hide_border=true&custom_title=Contribution%20graph" width="495"/>
